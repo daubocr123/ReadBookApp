@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "320664864474",
+    "firebase_url": "https://readbookapp-e2c50.firebaseio.com",
+    "project_id": "readbookapp-e2c50",
+    "storage_bucket": "readbookapp-e2c50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320664864474:android:93b419656577559510c7e3",
+        "android_client_info": {
+          "package_name": "com.example.readbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320664864474-g9dvd2npq1gc4if8akmtmiklln0u2a3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsJWYedsKZA_Fyvu4pyrgklWPrg408GR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320664864474-g9dvd2npq1gc4if8akmtmiklln0u2a3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

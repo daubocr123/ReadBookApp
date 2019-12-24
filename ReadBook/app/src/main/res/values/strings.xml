@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReadBookApp</string>
+    <string name="register_new">Đăng Ký Tài Khoản</string>
+    <string name="input_email_register">Nhập Email</string>
+    <string name="input_password_register">Nhập Mật Khẩu</string>
+    <string name="input_email">Email</string>
+    <string name="input_password">Password</string>
+</resources>
